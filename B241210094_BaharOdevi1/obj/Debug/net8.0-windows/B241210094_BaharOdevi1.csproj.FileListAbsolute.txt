@@ -1,0 +1,34 @@
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1\B241210094_BaharOdevi1\bin\Debug\net8.0-windows\B241210094_BaharOdevi1.exe
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1\B241210094_BaharOdevi1\bin\Debug\net8.0-windows\B241210094_BaharOdevi1.deps.json
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1\B241210094_BaharOdevi1\bin\Debug\net8.0-windows\B241210094_BaharOdevi1.runtimeconfig.json
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1\B241210094_BaharOdevi1\bin\Debug\net8.0-windows\B241210094_BaharOdevi1.dll
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1\B241210094_BaharOdevi1\bin\Debug\net8.0-windows\B241210094_BaharOdevi1.pdb
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.Form1.resources
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.csproj.GenerateResource.cache
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.AssemblyInfoInputs.cache
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.AssemblyInfo.cs
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.csproj.CoreCompileInputs.cache
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.dll
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\refint\B241210094_BaharOdevi1.dll
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.pdb
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.genruntimeconfig.cache
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\ref\B241210094_BaharOdevi1.dll
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.Properties.Resources.resources
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1 - Kopya\B241210094_BaharOdevi1\bin\Debug\net8.0-windows\B241210094_BaharOdevi1.exe
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1 - Kopya\B241210094_BaharOdevi1\bin\Debug\net8.0-windows\B241210094_BaharOdevi1.deps.json
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1 - Kopya\B241210094_BaharOdevi1\bin\Debug\net8.0-windows\B241210094_BaharOdevi1.runtimeconfig.json
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1 - Kopya\B241210094_BaharOdevi1\bin\Debug\net8.0-windows\B241210094_BaharOdevi1.dll
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1 - Kopya\B241210094_BaharOdevi1\bin\Debug\net8.0-windows\B241210094_BaharOdevi1.pdb
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1 - Kopya\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.Form1.resources
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1 - Kopya\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.Properties.Resources.resources
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1 - Kopya\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.csproj.GenerateResource.cache
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1 - Kopya\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1 - Kopya\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.AssemblyInfoInputs.cache
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1 - Kopya\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.AssemblyInfo.cs
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1 - Kopya\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.csproj.CoreCompileInputs.cache
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1 - Kopya\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.dll
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1 - Kopya\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\refint\B241210094_BaharOdevi1.dll
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1 - Kopya\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.pdb
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1 - Kopya\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\B241210094_BaharOdevi1.genruntimeconfig.cache
+C:\Users\ynaz2\Desktop\B241210094_BaharOdevi1 - Kopya\B241210094_BaharOdevi1\obj\Debug\net8.0-windows\ref\B241210094_BaharOdevi1.dll
